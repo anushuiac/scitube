@@ -10,3 +10,4 @@ Installation instruction
     conda install -c anaconda pyqt
 3 - Run the code by:
     python gui.py
+This code is written by anush kazemi, Visit Us at Sci-Course.ir
